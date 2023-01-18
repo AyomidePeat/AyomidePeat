@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyomidePeat
 - 👀 I’m interested in Flutter, C++ and Arduino
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on mmobile dev projects
+- 💞️ I’m looking to collaborate on mobile dev projects
 - 📫 Reach me on ayomidepeat@gmail.com
 
 <!---
