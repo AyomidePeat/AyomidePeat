@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyomidePeat
-- 👀 I’m interested in Flutter, C++ and Arduino
-- 🌱 I’m currently learning Flutter
+- 👀 I’m currently creating awesome mobile apps with flutter
+- 🌱 I’m also create fun stuffs with c++ and arduino
 - 💞️ I’m looking to collaborate on mobile dev projects
 - 📫 Reach me on ayomidepeat@gmail.com
 
