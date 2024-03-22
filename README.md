@@ -3,7 +3,7 @@
 - 🌱 I also create fun stuffs with c++ and arduino
 - 💞️ I’m looking to collaborate on mobile dev projects
 - 📫 Reach me on ayomidepeat@gmail.com
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayomidepeat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayomidepeat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 AyomidePeat/AyomidePeat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
