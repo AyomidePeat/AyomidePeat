@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Peace</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi 👋, I'm Peace&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h3 align="center">I derive pleasure in creating engaging digital experiences that mesmerize users. </h3>
 
 ---
