@@ -3,6 +3,8 @@
 - 🌱 I also create fun stuffs with c++ and arduino
 - 💞️ I’m looking to collaborate on mobile dev projects
 - 📫 Reach me on ayomidepeat@gmail.com
+  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayomidepeat&theme=java-dark" alt="GitHub Streak" /></a>
 
 
 <!---
