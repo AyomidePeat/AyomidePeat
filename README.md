@@ -21,6 +21,15 @@ I'm Oladipupo Peace, but you can call me ayomidepeat. I'm passionate about using
 
 ---
 
+## My Projects
+| HealthyFood App | Monide | Exercise App Animation |
+| :---: | :---: | :---: |
+| ![Healthy_Food](https://github.com/AyomidePeat/Healthy-Food-App/blob/d1ce9269c1b86817072f1aafab30201aa5500363/healthfood.gif) | ![Monide](https://github.com/AyomidePeat/monide/blob/71b2bc75dfd5af5df0e4722f2b6fd5569b896df9/monide.gif) | ![Exercise_App](https://github.com/AyomidePeat/exercise-app-animation/blob/bf99205846bcfb2572057e3407e59347c2869095/healthanimation.gif) |
+| 🔗[Github](https://github.com/AyomidePeat/Healthy-Food-App) | 🔗[GitHub](https://github.com/AyomidePeat/monide) | 🔗[GitHub](https://github.com/AyomidePeat/exercise-app-animation) |
+
+
+
+---
 ## Get to know me more
 
 ![](https://img.shields.io/twitter/follow/ayomidePeat__?logo=twitter&style=for-the-badge)
