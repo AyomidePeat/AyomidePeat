@@ -16,7 +16,7 @@
 ---
 Welcome to my GitHub home!
 
-I'm Ayomide Peace, but you can call me ayomidepeat. I'm passionate about using technology to solve real-world problems, and right now, I'm exploring Flutter and Arduino to make a difference in our universe. Check out my repos to see a variety of projects that display my skills and interests. I'm always learning and improving my Flutter skills to contribute more effectively to solving global challenges. Have questions about Flutter or just want to connect? Feel free to reach out at ayomidepeat@gmail.com. I love connecting with fellow developers!
+I'm Ayomide Peace, but you can call me ayomidepeat. I'm passionate about using technology to solve real-world problems, and right now, I'm exploring Flutter and Arduino to make a difference in our world. Check out my repos to see a variety of projects that display my skills and interests. I'm always learning and improving my Flutter skills to contribute more effectively to solving global challenges. Have questions about Flutter or just want to connect? Feel free to reach out at ayomidepeat@gmail.com. I love connecting with fellow developers!
 
 ---
 
