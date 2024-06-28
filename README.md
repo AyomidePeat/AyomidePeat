@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi 👋, I'm Peace&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-<h3 align="center">I derive pleasure in creating engaging digital experiences that mesmerize users. </h3>
+<h3 align="center">Hi 👋, I'm Peace </h3>
+
+<h3 align="center">I am a Flutter developer passionate about creating captivating and immersive digital experiences that delight and engage users. </h3>
 
 ---
 
