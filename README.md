@@ -21,13 +21,11 @@ I'm Ayomide Peace, but you can call me ayomidepeat. I'm passionate about using t
 
 ## My Projects   
 
-| HealthyFood App | Monide |
-| :---: | :---: |
-| <img src="https://github.com/AyomidePeat/Healthy-Food-App/blob/d1ce9269c1b86817072f1aafab30201aa5500363/healthfood.gif" width="250"/> | <img src="https://github.com/AyomidePeat/monide/blob/71b2bc75df5af5df0e4722f2b6fd5569b896df9/monide.gif" width="250"/> |
+## 🚀 My Projects  
 
-| Exercise App Animation | Hab It |
-| :---: | :---: |
-| <img src="https://github.com/AyomidePeat/exercise-app-animation/blob/bf99205846bcfb2572057e3407e59347c2869095/healthanimation.gif" width="250"/> | <img src="https://github.com/AyomidePeat/hab_it/blob/9e8f48be70fad88e45fcb75e28680487d2ae334e/gif.gif" width="250"/> |
+| [HealthyFood App](https://github.com/AyomidePeat/Healthy-Food-App) | [Monide](https://github.com/AyomidePeat/monide) | [Exercise App Animation](https://github.com/AyomidePeat/exercise-app-animation) | [Hab It](https://github.com/AyomidePeat/hab_it) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/AyomidePeat/Healthy-Food-App/blob/d1ce9269c1b86817072f1aafab30201aa5500363/healthfood.gif" width="200"/> | <img src="https://github.com/AyomidePeat/monide/blob/71b2bc75df0e4722f2b6fd5569b896df9/monide.gif" width="200"/> | <img src="https://github.com/AyomidePeat/exercise-app-animation/blob/bf99205846bcfb2572057e3407e59347c2869095/healthanimation.gif" width="200"/> | <img src="https://github.com/AyomidePeat/hab_it/blob/9e8f48be70fad88e45fcb75e28680487d2ae334e/gif.gif" width="200"/> |
 
 ---
 ## Get to know me more
